@@ -273,7 +273,7 @@ class _SchedulePageState extends State<SchedulePage> {
             ),
           ),
         ],
-      ),git init
+      ),
     );
   }
 
